@@ -2,7 +2,8 @@
 Parsing avatars from generated.photos
 
 Change filter settings
-```params = {'order_by': 'latest',
+```
+params = {'order_by': 'latest',
               'page': '1',
               'per_page': '50',
               'age': 'young-adult',
@@ -10,4 +11,5 @@ Change filter settings
               'gender': 'female',
               'emotion': 'neutral',
               # 'headpose': 'center'
-              }```
+              }
+```
